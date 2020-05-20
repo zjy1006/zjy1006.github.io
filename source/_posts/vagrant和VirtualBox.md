@@ -24,7 +24,7 @@ Vagrant是一个基于[Ruby](https://baike.baidu.com/item/Ruby/11419)的工具�
 
 VirtualBox 是一款开源[虚拟机软件](https://baike.baidu.com/item/虚拟机软件/9003764)。VirtualBox 是由德国 Innotek 公司开发，由[Sun](https://baike.baidu.com/item/Sun/69463) Microsystems公司出品的软件，使用[Qt](https://baike.baidu.com/item/Qt)编写，在 Sun 被 [Oracle](https://baike.baidu.com/item/Oracle) 收购后正式更名成 Oracle VM VirtualBox。Innotek 以 GNU General Public License (GPL) 释出 VirtualBox，并提供二进制版本及 OSE 版本的代码。使用者可以在VirtualBox上安装并且执行[Solaris](https://baike.baidu.com/item/Solaris)、[Windows](https://baike.baidu.com/item/Windows)、[DOS](https://baike.baidu.com/item/DOS/32025)、[Linux](https://baike.baidu.com/item/Linux)、OS/2 Warp、[BSD](https://baike.baidu.com/item/BSD)等系统作为客户端操作系统。已由[甲骨文公司](https://baike.baidu.com/item/甲骨文公司/430115)进行开发，是甲骨文公司xVM虚拟化平台技术的一部份。
 
-# 我的入门
+# 看操作
 
 ## 下载与安装
 
